@@ -37,7 +37,7 @@ Each exercise includes **objectives, methodology, implementation details, and re
 ## 📥 Download Report
 You can view or download the full PDF report here:
 
-➡️ [**Download PDF Report**](Development_of_Embedded_Systems_using_FPGA.pdf)
+➡️ [**Download PDF Report**](Developmen_of_Embedded Systems_using_FPGA_(Lab_Report).pdf)
 
 ---
 
