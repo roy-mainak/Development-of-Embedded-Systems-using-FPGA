@@ -15,7 +15,7 @@ The project explores FPGA-based embedded system design using the **Digilent Zybo
 ## 📂 Repository Contents
 - `main.tex` → LaTeX source file  
 - `images/` → Figures and diagrams  
-- `Development_of_Embedded_Systems_using_FPGA (Lab Report).pdf` → Final compiled PDF report  
+- `Development of Embedded Systems using FPGA (Lab Report).pdf` → Final compiled PDF report  
 - `README.md` → Project documentation  
 
 ---
